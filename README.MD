@@ -13,21 +13,20 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
 
-## 📚 Materiais
+Prompts
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- Ola, me faça um roteiro, para um e-book sobre viagem de Brasilia a João Pessoa, passando por SEABRA-BA, MACEIO-AL.
+- Escreva um paragrafo sobre como se preparar para uma viagem de carro a praia
+- Escreva um paragrafo falando sobre Brasilia com ponto de partida da viagem
+- Me faça um paragrafo, falando sobre Maceio como ponto de parada ate chegar a João Pessoa
+- faça um paragrafo falando sobre João Pessoa e seus atrativos
+- faça um paragrafo de conclusão, alertando que o material foi produzido com propósito didático para curso de utilização de ferramenta de IA com o uso da mesma.
+- Peço criar o roteiro de um pod cast
+contexto
+a voz sera renderizada na eleven labs
+apenas 1 narrador
+duração de 3 minutos
 
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
 
 Newton Dianin
